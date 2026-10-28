@@ -2,7 +2,7 @@
 
 > A visual analytics project in **Excel** and **Tableau** that turns ten years of Australian Bureau of Statistics trade data into change points, a product-level dashboard, an 8-step storyboard and a 2030 export forecast for the meat industry.
 
-[![View on Tableau Public](https://img.shields.io/badge/Tableau_Public-View_interactive_dashboard-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/views/BaoAnhNguyen_14686380_A3/Dashboard3)
+[![View on Tableau Public] https://public.tableau.com/views/AustraliaTrade2016-2025/MeatEVolatility?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 - **Tools:** Excel (formulas, derived datasets) · Tableau (relationships, calculated fields, dashboards, story, forecasting)
 - **Data:** ABS International Trade in Goods, annual, 2016–2025, A$ millions · 10 main categories (SITC 0–9) · 67 sub-categories
